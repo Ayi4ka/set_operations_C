@@ -43,3 +43,19 @@ gcc sets.c -o sets.exe
 ./sets.exe 
 ```
 📚 Educational project for learning character arrays and string logic in C
+
+![image](https://github.com/user-attachments/assets/d72499d4-b6ab-4d50-9cc2-1e39bce804b2)
+1
+![image](https://github.com/user-attachments/assets/d37429d0-683f-4934-9165-e8e589a4f7a2)
+2
+![image](https://github.com/user-attachments/assets/476aef78-88a3-43e9-8df1-bed97857bb30)
+3
+![image](https://github.com/user-attachments/assets/85f917ed-ab09-4cac-bf0f-a8834f258c21)
+4
+![image](https://github.com/user-attachments/assets/b719f3e0-8199-4044-aedd-7d8d028991e2)
+5
+![image](https://github.com/user-attachments/assets/1fe0c4bc-3d5a-48dd-9521-a9ee9675ccbd)
+6
+![image](https://github.com/user-attachments/assets/7bd104b6-315b-47bc-8a33-1541b8ab98c8)
+7
+![image](https://github.com/user-attachments/assets/962da792-6bd1-4b5c-97c3-19e2f919f406)
