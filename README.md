@@ -8,34 +8,35 @@
 
 ## 💡 Features / Возможности
 
-- 🔠 Manual input of character sets
-- ⚙️ Set operations: union, intersection, difference, symmetric difference
-- 🔍 Russian vowel analysis (counts + missing vowels)
-- 📋 Clean output and formatted results
-- 🧠 Educational logic and structure
+- 🔠 Manual input of character sets / Ручной ввод наборов символов
+- ⚙️ Set operations: union, intersection, difference, symmetric difference / Операции над наборами: объединение, пересечение, разность, симметричная разность
+- 🔍 Russian vowel analysis (counts + missing vowels) / Анализ русских гласных (счетчики + пропущенные гласные)
+- 📋 Clean output and formatted results / Чистый вывод и отформатированные результаты
+- 🧠 Educational logic and structure / Образовательная логика и структура
 
 ---
 
 ## 🔤 Topics Covered / Темы
 
-- Arrays and character handling in C
-- Multiple choice menus (`switch`)
-- Working with string input (`fgets`, `getche`)
-- Conditional logic and loops
-- Unicode handling challenges in console
+- Arrays and character handling in C / Массивы и обработка символов в C
+- Multiple choice menus (`switch`) / Меню с множественным выбором (`switch`)
+- Working with string input (`fgets`, `getche`) / Работа со строковым вводом (`fgets`, `getche`)
+- Conditional logic and loops / Условная логика и циклы
+- Unicode handling challenges in console / Проблемы обработки Unicode в консоли
 
 ---
+
 ## Example Operations / Примеры операций
-- Ввод двух строк A и B
-- Вывод объединения: A ∪ B
-- Вывод пересечения: A ∩ B
-- Симметричная разность: (A ∪ B) \ (A ∩ B)
-- Анализ строки: сколько раз встречается каждая русская гласная и какие отсутствуют
+- Input of two strings A and B / Ввод двух строк A и B
+- Output of union: A ∪ B / Вывод объединения: A ∪ B
+- Output of intersection: A ∩ B / Вывод пересечения: A ∩ B
+- Symmetric difference: (A ∪ B) \ (A ∩ B) / Симметричная разность: (A ∪ B) \ (A ∩ B)
+- Analysis of strings: how many times the Russian vowel is used and what are the disadvantages / Анализ строки: сколько раз встречается каждая русская гласная и какие отсутствуют
 
 
 ## 🛠 Usage / Как запустить
 
-Compile and run the program using any C compiler (e.g., GCC, Visual Studio).
+Compile and run the program using any C compiler (e.g., GCC, Visual Studio). / Скомпилируйте и запустите программу с помощью любого компилятора C (например, GSK, Visual Studio).
 
 Пример для Windows:
 ```bash
