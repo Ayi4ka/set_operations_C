@@ -25,6 +25,13 @@
 - Unicode handling challenges in console
 
 ---
+## Example Operations / Примеры операций
+- Ввод двух строк A и B
+- Вывод объединения: A ∪ B
+- Вывод пересечения: A ∩ B
+- Симметричная разность: (A ∪ B) \ (A ∩ B)
+- Анализ строки: сколько раз встречается каждая русская гласная и какие отсутствуют
+
 
 ## 🛠 Usage / Как запустить
 
@@ -33,4 +40,6 @@ Compile and run the program using any C compiler (e.g., GCC, Visual Studio).
 Пример для Windows:
 ```bash
 gcc sets.c -o sets.exe
-./sets.exe
+./sets.exe 
+```
+📚 Educational project for learning character arrays and string logic in C
