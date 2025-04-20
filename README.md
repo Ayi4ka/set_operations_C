@@ -43,7 +43,8 @@ Compile and run the program using any C compiler (e.g., GCC, Visual Studio). / �
 gcc sets.c -o sets.exe
 ./sets.exe 
 ```
-📚 Educational project for learning character arrays and string logic in C
+📚 Educational project for learning character arrays and string logic in C / Образовательный проект для изучения символьных массивов и строковой логики на C
+🤝 Author | Автор Made with ❤️ by Ayi4ka in 2021 / Сделано с любовью — Айка в 2021 году
 ## Пример
 ![image](https://github.com/user-attachments/assets/d72499d4-b6ab-4d50-9cc2-1e39bce804b2)
 ## 1
